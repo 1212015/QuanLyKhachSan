@@ -1,0 +1,27 @@
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\bin\Debug\BUS.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\bin\Debug\DAO.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\bin\Debug\DTO.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\bin\Debug\DAO.pdb
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\bin\Debug\DTO.pdb
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\bin\Debug\BUS.dll
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\bin\Debug\BUS.pdb
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\bin\Debug\DAO.dll
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\bin\Debug\DTO.dll
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\bin\Debug\DAO.pdb
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\bin\Debug\DTO.pdb
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
+D:\Downloads\Compressed\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\BUS.dll
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DAO.dll
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DTO.dll
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DAO.pdb
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\bin\Debug\DTO.pdb
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.dll
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\BUS\obj\Debug\BUS.pdb

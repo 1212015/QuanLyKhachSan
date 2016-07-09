@@ -1,0 +1,21 @@
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DAO\bin\Debug\DAO.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DAO\bin\Debug\DAO.pdb
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DAO\bin\Debug\DTO.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DAO\bin\Debug\DTO.pdb
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DAO\obj\Debug\DAO.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DAO\obj\Debug\DAO.pdb
+D:\Downloads\Compressed\QuanLyKhachSan\DAO\bin\Debug\DAO.dll
+D:\Downloads\Compressed\QuanLyKhachSan\DAO\bin\Debug\DAO.pdb
+D:\Downloads\Compressed\QuanLyKhachSan\DAO\bin\Debug\DTO.dll
+D:\Downloads\Compressed\QuanLyKhachSan\DAO\bin\Debug\DTO.pdb
+D:\Downloads\Compressed\QuanLyKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Downloads\Compressed\QuanLyKhachSan\DAO\obj\Debug\DAO.dll
+D:\Downloads\Compressed\QuanLyKhachSan\DAO\obj\Debug\DAO.pdb
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\DAO\bin\Debug\DAO.dll
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\DAO\bin\Debug\DAO.pdb
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\DAO\bin\Debug\DTO.dll
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\DAO\bin\Debug\DTO.pdb
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\DAO\obj\Debug\DAO.dll
+C:\Users\LONGANH\Desktop\QuanLyKhachSan\QuanLyKhachSan\DAO\obj\Debug\DAO.pdb

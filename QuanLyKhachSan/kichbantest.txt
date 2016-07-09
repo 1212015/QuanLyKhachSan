@@ -1,0 +1,41 @@
+﻿* 
+test cho chức năng khách hàng:
+
+* Chức năng đăng nhập đăng xuất
+B1: Chọn chức năng khách hàng
+B2: user :1 ;  pass :1
+  user :2 ; pass: 2
+  user :3 ; pass: 3
+
+* Chức năng thêm đăng ký:
+
+* Chức năng tìm kiếm:
++ giá cả, thành phố:
+ Hà Nội
+3900000
+ Đồng Nai
+3500000
+ Hồ Chí Minh
+800000
+
++ số sao, thành phố
+ Hồ Chí Minh
+1
+==>(không cho kết quả)
+ Hồ Chí Minh
+2
+==> (cho 2 kết quả)
+ Hồ Chí Minh
+3
+==> (Cho 3 kết quả)
+ + Thành phố
+ Cà Mau
+==> Không cho kết quả
+
+
+*thành tiền :
+6200000
+
+300000
+		
+

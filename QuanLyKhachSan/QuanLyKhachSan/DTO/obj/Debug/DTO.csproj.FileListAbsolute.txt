@@ -1,0 +1,5 @@
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DTO\bin\Debug\DTO.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DTO\bin\Debug\DTO.pdb
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DTO\obj\Debug\DTO.dll
+C:\Users\KHOA\Documents\Phân tích và thiết kế phần mềm\Deadline\QuanLyKhachSan\DTO\obj\Debug\DTO.pdb
